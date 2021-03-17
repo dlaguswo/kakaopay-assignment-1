@@ -57,7 +57,6 @@ POST /account/signup
 | 400  | Request 필드 부족      |
 | 401 | Username 중복 |
 
-
 #### 로그인 / signin 
 
 POST /account/singin
